@@ -7,7 +7,7 @@ Create an account and secret key to use api.
 
 # Usage
 
-const var = https://api.darksky.net/forecast/{Your API key}/lat,long;
+const var = https://api.darksky.net/forecast/{ Your API key }/lat,long;
 
 # Documentation
 
